@@ -10,7 +10,7 @@ https://www.autohotkey.com
 
 and download the "macro.ahk" file for fisch macro
 
-Fisch Game Link:
+Fisch Game Link: https://www.roblox.com/games/16732694052/Fisch
 
 
 
